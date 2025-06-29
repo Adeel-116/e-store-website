@@ -1,24 +1,35 @@
-<h1 align="center">🛍️ E-Store Website</h1>
+# E-Commerce Website
 
-<p align="center">
-  <b>A Modern, Responsive E-Commerce Website UI built with HTML, CSS, and JavaScript</b><br>
-  <i>Clean. Stylish. Lightweight. Frontend Only.</i>
-</p>
+A simple, responsive e-commerce website built with HTML, CSS, and JavaScript. Clean design with essential shopping features.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+🌐 **Live Demo**: [https://e-store-website-phi.vercel.app/](https://e-store-website-phi.vercel.app/)
 
----
+## ✨ Features
 
-## 🚀 Live Preview
+- **Responsive Design**: Works on desktop, tablet, and mobile
+- **Product Display**: Clean product showcase with images
+- **Shopping Cart**: Add and remove items from cart
+- **Simple Navigation**: Easy-to-use interface
+- **Modern Design**: Clean and professional layout
 
-> ⚠ This is a **static frontend project** – no backend or functionality (like cart, login, payments) is implemented.
+## 🛠️ Technologies Used
 
-You can run it locally using **Live Server** extension in VS Code:
+- **HTML5**: Structure and content
+- **CSS3**: Styling and responsive design
+- **JavaScript**: Interactive functionality
 
-```bash
-git clone https://github.com/Adeel-116/e-store-website.git
-cd e-store-website
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/ecommerce-website.git
+   cd ecommerce-website
+   ```
+
+2. **Open the project**
+   - Open `index.html` in your web browser, or
+   - Use a local development server for better experience
+
+3. **For development with Live Server (VS Code)**
+   - Install Live Server extension
+   - Right-click on `index.html` and select "Open with Live Server"
